@@ -1,8 +1,7 @@
 This repository contains the subjects proposed for the homework of the
 advanced computational techniques.
 
-You should pick two subjects among the three subjects below:
-- Project #1: HF and MP2 energy in C
+Project2 and Project3 is chosen:
 - Project #2: Sparse matrices in Fortran
 - Project #3: Molecular dybamics in C or Fortran
 
